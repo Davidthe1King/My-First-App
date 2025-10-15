@@ -1,0 +1,57 @@
+body {
+      background-color: rgb(0, 0, 0);
+    }
+
+h1 {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 0px;
+    margin: 0;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.l1 {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 1px;
+    display: inline;
+    list-style-type: none ;
+    position: relative;
+    float: left;
+        position: relative;
+    top: 20px; /* Moves the box 20px down from its normal position */
+    left: 30px; /* Moves the box 30px right from its normal position */
+
+}
+
+.l1 :hover {
+    color: rgb(0, 0, 0);
+}
+
+.l2 {
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 1px;
+    display: inline;
+    list-style-type: none ;
+    position: relative;
+    float: right;
+        position: relative;
+    top: 20px; /* Moves the box 20px down from its normal position */
+    left: 30px; /* Moves the box 30px right from its normal position */
+}
+
+.l2 :hover {
+    color: rgb(0, 0, 0);
+}
+
+.ul1 {
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    border-radius: 1px;
+    width: 95%;
+}
